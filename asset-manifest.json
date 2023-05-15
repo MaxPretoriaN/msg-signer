@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/msg-signer/static/css/main.57f3d5f6.css",
-    "main.js": "/msg-signer/static/js/main.69bb5d6d.js",
+    "main.js": "/msg-signer/static/js/main.d769e724.js",
     "index.html": "/msg-signer/index.html",
     "main.57f3d5f6.css.map": "/msg-signer/static/css/main.57f3d5f6.css.map",
-    "main.69bb5d6d.js.map": "/msg-signer/static/js/main.69bb5d6d.js.map"
+    "main.d769e724.js.map": "/msg-signer/static/js/main.d769e724.js.map"
   },
   "entrypoints": [
     "static/css/main.57f3d5f6.css",
-    "static/js/main.69bb5d6d.js"
+    "static/js/main.d769e724.js"
   ]
 }
